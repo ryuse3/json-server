@@ -1,0 +1,8 @@
+{
+    "users":[
+        {"id":"1","name":"Hasegawa"}
+    ],
+    "companies":[
+        {"id":"1", "name":"QualicaInc."}
+    ]
+}
